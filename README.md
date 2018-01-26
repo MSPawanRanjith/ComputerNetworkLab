@@ -13,7 +13,7 @@ It has two parts
 
 `./a.out`
   
-     1. C implemenation of client server program ,only for Unix/Linux Environment
+     2. C implemenation of client server program ,only for Unix/Linux Environment
         for executing the client and server program
 `$ gcc serverSide.c -o server`
 
@@ -29,4 +29,7 @@ It has two parts
     1. It has NS2 programs and awk file to get insight
        for executing NS2 programs.
 `$ns filename.tcl`   
+
+    2.XGraph, create file with datain two columns, which containins points to plot then execute following cmd
+`$ xgraph filename.txt`
 
