@@ -10,14 +10,18 @@ It has two parts
      1. C++ implementation of computer network lab programs
         for executing the programs with .cpp extension
 `$ g++ filename.cpp`
+
 `./a.out`
   
      1. C implemenation of client server program ,only for Unix/Linux Environment
         for executing the client and server program
 `$ gcc serverSide.c -o server`
+
 `./server`
-`$ gcc clientSide.c`
-`./a.out`
+
+`$ gcc clientSide.c -o client`
+
+`./client`
 
   
 ## 2)PART B
